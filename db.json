@@ -1,0 +1,10 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Salário",
+      "type": "credit",
+      "value": 3000
+    }
+  ]
+}
